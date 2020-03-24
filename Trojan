@@ -1,0 +1,6 @@
+Trojan测试1 = trojan, gcp001.dlj.tf, 443, password=dd014fd5, skip-cert-verify=true, tfo=true
+Trojan测试2 = trojan, gcp002.dlj.tf, 443, password=caeee762, skip-cert-verify=true, tfo=true
+Trojan测试3 = trojan, gcp003.dlj.tf, 443, password=a1fa2263, skip-cert-verify=true, tfo=true
+Trojan测试4 = trojan, gcp004.dlj.tf, 443, password=65f92cbb, skip-cert-verify=true, tfo=true
+Trojan测试5 = trojan, gcp005.dlj.tf, 443, password=6b712d26, skip-cert-verify=true, tfo=true
+Trojan测试6 = trojan, gcp006.dlj.tf, 443, password=32f6e575, skip-cert-verify=true, tfo=true
