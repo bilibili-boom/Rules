@@ -4,3 +4,6 @@ Netease China PR-Win = http, bj002.mxx.best, 7777
 Netease China PR-iOS = http, bj002.mxx.best, 7778
 Netease China 花姑娘-Win = http, 163.wcc.best, 8080
 Netease China 花姑娘-iOS = http, 163.wcc.best, 8081
+Netease China-SS = ss, 103.213.247.201, 58080, encrypt-method=aes-256-gcm, password=T5ckndbLSXHQ
+
+Netease China-SS-IOS = ss, 103.213.247.201, 58081, encrypt-method=aes-256-gcm, password=T5ckndbLSXHQ
