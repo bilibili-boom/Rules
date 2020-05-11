@@ -1,5 +1,4 @@
 Netease China AGWA = http, sh.dlj.tf, 8080
-Netease China YoYu = http, 47.106.178.231, 18080
 Netease China PR-Win = http, bj002.mxx.best, 7777
 Netease China PR-iOS = http, bj002.mxx.best, 7778
 Netease China 花姑娘-上海 = ss, netease-sh.wcc.best, 58080, encrypt-method=chacha20-ietf-poly1305, password=shT5ckndbLSXHQ
