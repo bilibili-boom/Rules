@@ -1,4 +1,5 @@
-Netease China AGWA = http, sh.dlj.tf, 8080
+Netease China AGWA-Win = http, pc.dlj.tf, 9090
+Netease China AGWA-iOS = http, os.dlj.tf, 8080
 Netease China PR-Win = http, bj002.mxx.best, 7777
 Netease China PR-iOS = http, bj002.mxx.best, 7778
 Netease China BP-Win = ss, 120.92.217.121, 58080, encrypt-method=chacha20-ietf, password=8080
