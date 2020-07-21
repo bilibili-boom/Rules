@@ -1,5 +1,6 @@
-Netease China AGWA-Win = http, pc.dlj.tf, 9090
-Netease China AGWA-iOS = http, os.dlj.tf, 8080
-Netease China BP-Win = ss, 120.92.217.121, 58080, encrypt-method=chacha20-ietf, password=8080
-Netease China BP-iOS = ss, 120.92.217.121, 59090, encrypt-method=chacha20-ietf, password=9090
-Netease China 花姑娘-上海 = ss, netease-sh.wcc.best, 58080, encrypt-method=chacha20-ietf-poly1305, password=shT5ckndbLSXHQ
+http = pc.dlj.tf:9090, username=none, password=none, fast-open=false, udp-relay=false, tls-verification=true, tag=Netease China AGWA-Win
+http = pc.dlj.tf:8080, username=none, password=none, fast-open=false, udp-relay=false, tls-verification=true, tag=Netease China AGWA-iOS
+shadowsocks = 120.92.217.121:58080, method=chacha20-ietf, password=8080, fast-open=false, udp-relay=false, tag=Netease China BP-Win
+shadowsocks = 120.92.217.121:59090, method=chacha20-ietf, password=9090, fast-open=false, udp-relay=false, tag=Netease China BP-iOS
+shadowsocks = netease-sh.wcc.best:58080, method=chacha20-ietf-poly1305, password=shT5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=Netease China 花姑娘-上海
+
