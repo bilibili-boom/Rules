@@ -1,4 +1,2 @@
 shadowsocks = 120.92.217.121:58080, method=chacha20-ietf, password=8080, fast-open=false, udp-relay=false, tag=Netease China BP-Win
 shadowsocks = 120.92.217.121:59090, method=chacha20-ietf, password=9090, fast-open=false, udp-relay=false, tag=Netease China BP-iOS
-shadowsocks = netease-sh.wcc.best:58080, method=chacha20-ietf-poly1305, password=shT5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=Netease China 花姑娘-上海
-
