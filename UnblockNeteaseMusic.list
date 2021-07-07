@@ -1,4 +1,4 @@
-shadowsocks = 120.92.217.121:20000, method=chacha20-ietf, password=20000, fast-open=false, udp-relay=false, tag=Netease China BP-Win
+
 shadowsocks = 120.92.217.121:30000, method=chacha20-ietf, password=30000, fast-open=false, udp-relay=false, tag=Netease China BP-iOS
-http = os.dlj.tf:20000, fast-open=false, udp-relay=false, tag=Netease Proxy China 1
-http = os.dlj.tf:30000, fast-open=false, udp-relay=false, tag=Netease Proxy China 2
+http = os.dlj.tf:20000, tag=Netease Proxy China 1
+http = os.dlj.tf:30000, tag=Netease Proxy China 2
