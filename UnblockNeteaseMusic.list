@@ -1,2 +1,2 @@
-http = os.dlj.tf:20000, fast-open=false, udp-relay=false, tag=🇨🇳Netease Proxy China 1
-http = os.dlj.tf:30000, fast-open=false, udp-relay=false, tag=🇨🇳Netease Proxy China 2
+ss = 101.34.243.161:20000, encrypt-method=chacha20-ietf, password=20000, 🇨🇳 UnblockNeteaseMusic - WIN
+ss = 101.34.243.161:30000, encrypt-method=chacha20-ietf, password=30000, 🇨🇳 UnblockNeteaseMusic - IOS
