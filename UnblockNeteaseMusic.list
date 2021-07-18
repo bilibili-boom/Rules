@@ -1,2 +1,2 @@
-🇨🇳 UnblockNeteaseMusic-WIN = ss, 101.34.243.161, port:20000, encrypt-method=chacha20-ietf, password=20000
-🇨🇳 UnblockNeteaseMusic-IOS = ss, 101.34.243.161, port:30000, encrypt-method=chacha20-ietf, password=30000
+UnblockNeteaseMusic-WIN = ss, 101.34.243.161, port:20000, encrypt-method=chacha20-ietf, password=20000
+UnblockNeteaseMusic-IOS = ss, 101.34.243.161, port:30000, encrypt-method=chacha20-ietf, password=30000
