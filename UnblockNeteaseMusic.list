@@ -1,2 +1,2 @@
-shadowsocks=101.34.243.161:20000, method=chacha20-ietf, password=20000, fast-open=false, udp-relay=false, tag=🇨🇳 NeteaseUnblock-CN-WIN
-shadowsocks=101.34.243.161:30000, method=chacha20-ietf, password=30000, fast-open=false, udp-relay=false, tag=🇨🇳 NeteaseUnblock-CN-IOS
+shadowsocks=sh-tx.ommmg.xyz:20000, method=chacha20-ietf, password=20000, fast-open=false, udp-relay=false, tag=🇨🇳 NeteaseUnblock-CN-WIN
+shadowsocks=sh-tx.ommmg.xyz:30000, method=chacha20-ietf, password=30000, fast-open=false, udp-relay=false, tag=🇨🇳 NeteaseUnblock-CN-IOS
