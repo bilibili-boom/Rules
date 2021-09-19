@@ -1,1 +1,22 @@
+surge_ruleset=DIRECT,https://bluepants.oss-cn-hangzhou.aliyuncs.com/rules/surge/direct.list
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
+surge_ruleset=Hong Kong,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list
+surge_ruleset=Bilibili,https://raw.githubusercontent.com/Bluepants94/Rules/master/Surge/Bilibili.list
+surge_ruleset=Taiwan,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Bahamut.list
+surge_ruleset=Google,https://bluepants.oss-cn-hangzhou.aliyuncs.com/rules/surge/google.list
+surge_ruleset=NeteaseMusic,https://raw.githubusercontent.com/Bluepants94/Rules/master/Surge/NeteaseMusic.list
+surge_ruleset=Netflix,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+surge_ruleset=DIRECT,[]GEOIP,CN
+surge_ruleset=Proxy,[]FINAL
 
+custom_proxy_group=Proxy`select`[]Hong Kong`[]Japan`[]Singapore`[]Taiwan`[]United States`.*`
+custom_proxy_group=Bilibili`select`[]Proxy`[]DIRECT`[]Hong Kong`[]Taiwan`
+custom_proxy_group=Google`select`[]Proxy`[]DIRECT`[]Hong Kong`[]Japan`[]Singapore`[]Taiwan`[]United States`
+custom_proxy_group=Netflix`select`[]Proxy`[]DIRECT`[]Hong Kong`[]Japan`[]Singapore`[]Taiwan`[]United States`
+custom_proxy_group=NeteaseMusic`select`[]DIRECT`(Netease)
+custom_proxy_group=Hong Kong`select`(港|HK|Hong Kong)
+custom_proxy_group=Japan`select`(日|本|京|阪|泉|埼|沪日|深日|JP|京日|Japan)
+custom_proxy_group=Singapore`select`(新|坡|狮|SG|Singapore)
+custom_proxy_group=Taiwan`select`(台|新北|彰化|TW|Taiwan)
+custom_proxy_group=United States`select`(美|达|冈|凤|蒙|硅|洛|圣|雅|拉|芝|US|United States)
