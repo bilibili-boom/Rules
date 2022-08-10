@@ -1,5 +1,5 @@
-#!name=Personal
-#!desc=多功能模块
+#!name=Information
+#!desc=信息面板
 #!system=ios
 
 [Panel]
