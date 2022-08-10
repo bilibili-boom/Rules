@@ -1,3 +1,7 @@
+#!name=Personal
+#!desc=多功能模块
+#!system=ios
+
 [Panel]
 SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile, update-interval=60
 
