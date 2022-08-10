@@ -2,6 +2,7 @@
 #!desc=信息面板
 #!system=ios
 
+[Panel]
 SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile, update-interval=60
 
 TrafficStatistics = script-name=TrafficStatistics, update-interval=60
